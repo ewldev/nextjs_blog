@@ -9,7 +9,7 @@ module.exports = {
     extend: {},
   },
   plugins: [
-    equire('@tailwindcss/typography'),
+    require('@tailwindcss/typography'),
   ],
 }
 
